@@ -20,6 +20,7 @@ MBATS is based on Docker containers. Running your Infrastructure is as easy as r
 Setting up the entire infrastructure can be done in 2 lines of script
 
 Clone the github page. https://github.com/HectorTa1989/Hector-HFT-trading/
+
 Run “docker-compose up -d — build”
 Run “starter_script.bat”
 
